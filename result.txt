@@ -1,0 +1,7 @@
+ID	Predicted_Label
+ValTib01	SG
+ValTib02	SG
+ValTib03	SG
+ValTib04	SG
+ValTib05	SG
+ValTib06	QOL
