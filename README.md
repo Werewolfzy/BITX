@@ -1,5 +1,5 @@
 # BITX (Breed identification model of Tibetan livestock based on xgboost)
-`BITX` is a powerful command line tool designed to swiftly and precisely identify various species of Tibetan animals in the vast Tibetan Plateau region of China.
+`BITX` is a powerful command line tool designed to swiftly and precisely identify various species of Tibetan livestock in the vast Tibetan Plateau region of China.
 
 
 
